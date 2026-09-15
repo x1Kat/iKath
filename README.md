@@ -6,7 +6,7 @@
   </p> 
 
 
-<h2 align="center">I'm Kath</h2>
+<h2 align="center">I'm Kat</h2>
 <p align="center">
   <a href="https://instagram.com/ikath_x.x">Instagram</a> •
   <a href="https://twitter.com/iKath_x">Twitter</a> •
